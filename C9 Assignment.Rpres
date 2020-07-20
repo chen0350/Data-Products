@@ -1,0 +1,42 @@
+C9 Assignment
+========================================================
+author: chen0350
+date: 
+```{r, echo=FALSE}
+date<-date()
+```
+
+`r date`
+
+Introduction
+========================================================
+
+- To pitch my Shiny app
+- Via a presentation hosted on RPubs
+
+Dataset Used
+========================================================
+
+We use the mtcars dataset. The dataset looks as follows
+```{r}
+str(mtcars)
+```
+
+The Shiny Application
+========================================================
+This app allows user to dynamically select certain car weights to determine the the regression line of miles per gallon. Drag and select points to determine the regression line.
+          
+https://chen0350.shinyapps.io/Assignment/
+
+Conclusion
+========================================================
+
+Via this exercise, I have demonstrated my understanding of Shiny Application and R Presenter.
+
+Recap
+- done in Rstudio Presenter
+- 5 pages
+- hosted on Rpubs
+- contained some embedded R code that gets run when slidifying the document
+Thank you for reading
+
